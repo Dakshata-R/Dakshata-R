@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshata-r&label=Profile%20views&color=0e75b6&style=flat" alt="dakshata-r" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Project**
+- 🔭 I’m currently working on **Machine Learning Project**
 
 - 🌱 I’m currently learning **Data Structures**
 
